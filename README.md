@@ -1,2 +1,2 @@
 # prothom.ses
-few frontend projects
+These are some of the front-end pages from my initial days
