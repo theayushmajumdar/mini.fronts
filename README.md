@@ -1,4 +1,4 @@
-# prothom.ses
+# mini.fronts
 These are some of the front-end pages from my initial days :
 
 ## Previews
